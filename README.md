@@ -1,2 +1,7 @@
-# unity-2021-migration-error-tracker
-Repository to handle error logs during Unity 2021 migration
+### About
+Contains encountered errors during Unity 2021 (2021.3.8f1) migration process.
+
+####
+[Common errors]()
+[Android specific]()
+[iOS specific]()
