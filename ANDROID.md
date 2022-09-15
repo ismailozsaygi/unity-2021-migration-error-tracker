@@ -1,3 +1,5 @@
+# Android
+
 1. _"Custom Main Manifest" was not enabled in the template project._\
 ``Resolution: Enable "Custom Main Manifest" boolean in template project and export it again.``
 
