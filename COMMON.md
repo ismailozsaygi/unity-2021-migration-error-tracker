@@ -6,3 +6,5 @@
 2. _A native collection has not been disposed, resulting in a memory leak. Enable full stack traces to get more detail._\
 ``There are no resolutions for this issue yet.``\
 
+3. _Popups are buggy on their first open call._\
+``Set popup local scale to Vector3.zero on open``\
