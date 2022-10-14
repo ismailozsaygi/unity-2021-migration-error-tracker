@@ -7,4 +7,8 @@
 ``There are no resolutions for this issue yet.``\
 
 3. _Popups are buggy on their first open call._\
-``Set popup local scale to Vector3.zero on open``\
+``Set popup local scale to Vector3.zero on open``
+
+4. _Inspector bugs out and becomes unscaleable._\
+``There are no resolutions for this issue yet.``\
+``Could not find the member 'm_PropertyDrawer' on internal Unity type 'UnityEditor.PropertyHandler'; cannot correctly set internal Unity state for drawing of custom Unity property drawers - drawers which call EditorGUI.PropertyField or EditorGUILayout.PropertyField will be drawn partially twice.``
