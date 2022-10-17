@@ -10,7 +10,7 @@
 ``Resolution: Set popup local scale to Vector3.zero on open.``
 
 4. _Inspector bugs out and becomes unscaleable._\
-``Resolution: Updated version of Unity to 2021.3.11f1, let's see if this fixed it.``
+``Resolution 0: Updated version of Unity to 2021.3.11f1, let's see if this fixed it.``
 
 5. Could not find the member 'm_PropertyDrawer' on internal Unity type 'UnityEditor.PropertyHandler'; cannot correctly set internal Unity state for drawing of custom Unity property drawers - drawers which call EditorGUI.PropertyField or EditorGUILayout.PropertyField will be drawn partially twice.
 ``Resolution: Try to update Odin inspector for 2021.``
